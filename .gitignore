@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Pixabay recordings and byte-identical standalone playback bundles are local.
+music/*.mp3
+music/local/*.js
